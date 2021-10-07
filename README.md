@@ -1,4 +1,4 @@
-### Oii, bem-vindo(a)! Eu sou a Regiane.
+### Oii, bem-vindo(a)!
 
 - 🔭 Atualmente eu trabalho como assistente administrativo.
 - 🌱 Neste momento, estou adquirindo conhecimentos em:
