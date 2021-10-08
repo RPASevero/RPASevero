@@ -1,12 +1,12 @@
 ### Oii, bem-vindo(a)!
 
-- 🔭 Atualmente eu trabalho como assistente administrativo.
+- 🔭 Atualmente eu trabalho como assistente administrativa.
 - 🌱 Neste momento, estou adquirindo conhecimentos em:
 - Git/Github 🔓    - HTML5 and CSS3 🔓
 - Bootstrap 🔓     - Lógica de programação 🔓
 - Javascript 🔒    - JQuery 🔒    - ES6 🔒           
 - Phyton 🔒    - QA 🔒
-- ☺️ Estou em transição de carreira para a área de tecnologia.
+- ☺️ Em transição de carreira para a área de tecnologia.
 
 <div align="center">
   <a href="https://github.com/RPASevero">
