@@ -7,6 +7,7 @@
 - Javascript 🔒    - JQuery 🔒    - ES6 🔒           
 - Phyton 🔒    - QA 🔒
 - ☺️ Em transição de carreira para a área de tecnologia.
+- Repositório em construção!
 
 <div align="center">
   <a href="https://github.com/RPASevero">
