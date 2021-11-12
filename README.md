@@ -5,7 +5,7 @@
 - Git/Github 🔓    - HTML5 and CSS3 🔓
 - Bootstrap 🔓     - Lógica de programação 🔓
 - Javascript 🔒    - JQuery 🔒    - ES6 🔒           
-- Phyton 🔒    - QA 🔒
+- Phyton 🔒        - Java 🔒  - QA 🔒
 - ☺️ Em transição de carreira para a área de tecnologia.
 - Repositório em construção!
 
