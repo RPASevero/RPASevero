@@ -1,11 +1,11 @@
 ### Oii, bem-vindo(a)!
 
-- 🔭 Atualmente eu trabalho como assistente administrativa.
+- Cursando Análise e Desenvolvimento de Sisitemas.
 - 🌱 Neste momento, estou adquirindo conhecimentos em:
 - Git/Github 🔓    - HTML5 and CSS3 🔓
 - Bootstrap 🔓     - Lógica de programação 🔓
-- Javascript 🔒    - JQuery 🔒    - ES6 🔒           
-- Phyton 🔒        - Java 🔒  - QA 🔒
+- Javascript 🔓    - JQuery 🔒             
+- Phyton 🔒        - QA 🔒
 - ☺️ Em transição de carreira para a área de tecnologia.
 - Repositório em construção!
 
