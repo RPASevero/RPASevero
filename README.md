@@ -4,8 +4,7 @@
 - 🌱 Neste momento, estou adquirindo conhecimentos em:
 - Git/Github 🔓    - HTML5 and CSS3 🔓
 - Bootstrap 🔓     - Lógica de programação 🔓
-- Javascript 🔓    - JQuery 🔒             
-- Phyton 🔒        - QA 🔒
+- Javascript 🔓
 - ☺️ Em transição de carreira para a área de tecnologia.
 - Repositório em construção!
 
