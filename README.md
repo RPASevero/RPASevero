@@ -1,11 +1,8 @@
 ### Oii, bem-vindo(a)!
 
-- Cursando Análise e Desenvolvimento de Sisitemas.
-- 🌱 Neste momento, estou adquirindo conhecimentos em:
-- Git/Github 🔓    - HTML5 and CSS3 🔓
-- Bootstrap 🔓     - Lógica de programação 🔓
-- Javascript 🔓
-- ☺️ Em transição de carreira para a área de tecnologia.
+- Cursando Análise e Desenvolvimento de Sistemas.
+- 🌱 Aluna do Programa Desenvolve 2023 do grupo O Boticário, conclusão prevista para julho de 2023.
+- Trilha Desenvolve Full-Stack.
 - Repositório em construção!
 
 <div align="center">
